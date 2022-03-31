@@ -25,7 +25,7 @@
     "require": {
         "php"               : ">=7.1",
         "hoa/consistency"   : "dev-master",
-        "hoa/exception"     : "dev-master",
+        "hoa/exception"     : ">=1.0",
         "hoa/math"          : "dev-master",
         "niro/hoa-protocol" : "dev-master",
         "hoa/ustring"       : "dev-master",
