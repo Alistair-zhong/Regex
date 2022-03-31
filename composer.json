@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/regex",
+    "name"       : "niro/hoa-regex",
     "description": "The Hoa\\Regex library.",
     "type"       : "library",
     "keywords"   : ["library", "regex", "compiler"],
